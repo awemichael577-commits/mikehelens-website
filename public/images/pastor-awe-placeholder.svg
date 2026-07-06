@@ -1,0 +1,10 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pastor Awe portrait placeholder</title>
+  <desc id="desc">A tasteful placeholder portrait panel for client replacement.</desc>
+  <rect width="900" height="1100" fill="#14213d"/>
+  <circle cx="450" cy="340" r="132" fill="#f8e7bc"/>
+  <path d="M224 950C250 744 324 592 450 592C576 592 650 744 676 950H224Z" fill="#fffaf0"/>
+  <path d="M270 948C294 789 352 676 450 676C548 676 606 789 630 948H270Z" fill="#d6a53a" opacity="0.88"/>
+  <rect x="72" y="72" width="756" height="956" rx="30" stroke="#d6a53a" stroke-width="8"/>
+  <text x="450" y="1012" text-anchor="middle" fill="#fffaf0" font-family="Arial, sans-serif" font-size="34" font-weight="700">TODO: confirm real portrait</text>
+</svg>

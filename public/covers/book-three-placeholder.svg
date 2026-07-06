@@ -1,0 +1,10 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Book Three placeholder cover</title>
+  <desc id="desc">A warm off-white, navy, and gold placeholder book cover for client replacement.</desc>
+  <rect width="900" height="1200" fill="#fffaf0"/>
+  <rect x="72" y="72" width="756" height="1056" rx="18" fill="#f8e7bc"/>
+  <rect x="118" y="118" width="664" height="964" rx="14" stroke="#14213d" stroke-width="8"/>
+  <text x="450" y="520" text-anchor="middle" fill="#14213d" font-family="Georgia, serif" font-size="78" font-weight="700">Book Three</text>
+  <text x="450" y="610" text-anchor="middle" fill="#5f6877" font-family="Arial, sans-serif" font-size="34" font-weight="700">TODO: confirm cover</text>
+  <text x="450" y="980" text-anchor="middle" fill="#a77715" font-family="Georgia, serif" font-size="44" font-weight="700">Pastor Awe</text>
+</svg>
