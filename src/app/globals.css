@@ -12,10 +12,14 @@
 
 html {
   scroll-behavior: smooth;
+  /* Guard against any stray horizontal scroll on small screens. */
+  overflow-x: hidden;
 }
 
 body {
   min-height: 100vh;
+  max-width: 100%;
+  overflow-x: hidden;
   background: #fffcf7;
   color: #1a1a1a;
 }
